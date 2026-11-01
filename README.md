@@ -6,7 +6,7 @@ A rigorous, hands-on repository dedicated to mastering **Computer Architecture a
 
 ## 📚 Curriculum & Modules
 
-- [ ] **01_Instruction_Set_Architecture_ISA:** Instruction formats, addressing modes, 2-operand vs 3-operand ISAs, register files, and low-level Assembly implementations (Selection Sort, string manipulation, recursion).
+- [x] **01_Instruction_Set_Architecture_ISA:** Instruction formats, addressing modes, 2-operand vs 3-operand ISAs, register files, and low-level Assembly implementations (In-place Selection Sort on 1000 16-bit integers with custom 2-operand ISA).
 - [ ] **02_Computer_Arithmetic_ALU:** Fast addition (Carry-Lookahead), multiplication algorithms (Booth's Algorithm), division hardware, and IEEE 754 Floating-Point representation.
 - [ ] **03_Datapath_And_Control:** Single-cycle vs multi-cycle processor datapaths, control unit design, microprogrammed control, state machine modeling.
 - [ ] **04_Pipelining_And_Hazards:** Classical 5-stage RISC pipeline (IF, ID, EX, MEM, WB), structural hazards, data hazards & data forwarding, control hazards & branch prediction.
