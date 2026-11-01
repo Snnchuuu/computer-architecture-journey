@@ -1,0 +1,27 @@
+# Object and binary outputs
+*.o
+*.obj
+*.out
+*.bin
+*.hex
+*.exe
+
+# Assembly and emulator dumps
+*.lst
+*.s.bak
+*.dmp
+trace.txt
+*.vcd
+
+# Log and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+bin/
